@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/AashishKothuri03/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AashishKothuri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/AashishKothuri03/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AashishKothuri03/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/AashishKothuri03/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/AashishKothuri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/AashishKothuri03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AashishKothuri03/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -41,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AashishKothuri03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AashishKothuri03/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
