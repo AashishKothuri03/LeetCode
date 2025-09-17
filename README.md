@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AashishKothuri03/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AashishKothuri03/LeetCode/tree/master/0041-first-missing-positive) |
+| [0120-triangle](https://github.com/AashishKothuri03/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AashishKothuri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AashishKothuri03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/AashishKothuri03/LeetCode/tree/master/0682-baseball-game) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AashishKothuri03/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/AashishKothuri03/LeetCode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
